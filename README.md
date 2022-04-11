@@ -1,9 +1,9 @@
 # Distributed-systems
 Distributed systems
+
 ال Distributed systems من اهم الحجات اللي لازم تكون موجودة عند اي developer بالعكس مش بعتبرها حاجة قد ما هي مهارة زي البروبلم سولفينج وغيرها من الاسكيلز  . 
 
-في البداية اية هو ال System Design ?
-
+في البداية اية هو ال System Design ؟
 
 - What Is System Design ?
 - 
