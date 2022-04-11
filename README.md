@@ -6,7 +6,6 @@ Distributed systems
 في البداية اية هو ال System Design ؟
 
 - What Is System Design ?
-- 
 1- OOP / OOD
 
 2- Design Patterns
