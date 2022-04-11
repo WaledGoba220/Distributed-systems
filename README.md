@@ -46,6 +46,7 @@ Behavioral design patterns(Strategy - Observer - Iterator ... etc)
 تالت حاجة ودي اللي مبني عليها كل الكلام الباقي What Is a System ؟
 
 السيستم في جملة بسيطة جدا هو عبارة عن مجموعة عناصر بسيطة بتنظمها ومن خلالها تقدر تطلع سوفت وير  قوي طب اي هم بقا ؟؟
+
 A ) Storage (Database)
 
      | Relational database
